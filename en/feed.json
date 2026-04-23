@@ -1,0 +1,269 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Air Fryer Crispy",
+  "home_page_url": "https://airfryercrispy.com/",
+  "feed_url": "https://airfryercrispy.com/feed.json",
+  "description": "Air fryer recipes that work. Tested with multiple models, ready in minutes.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://airfryercrispy.com/air-fryer-crispy-chicken-thighs/",
+      "url": "https://airfryercrispy.com/air-fryer-crispy-chicken-thighs/",
+      "title": "Air Fryer Crispy Chicken Thighs",
+      "content_text": "Air Fryer Crispy Chicken Thighs. Bone-in chicken thighs with seasoned, crackling skin. The air fryer renders the fat layer under the ",
+      "image": "https://airfryercrispy.com/images/air-fryer-crispy-chicken-thighs.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer chicken thighs",
+        "crispy thighs",
+        "bone-in chicken airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/crispy-air-fryer-chicken-wings/",
+      "url": "https://airfryercrispy.com/crispy-air-fryer-chicken-wings/",
+      "title": "Crispy Air Fryer Chicken Wings in 25 Minutes",
+      "content_text": "Extra crispy air fryer chicken wings with no breading. Season, air fry at 400F, toss in sauce. Ready in 25 minutes.",
+      "image": "https://airfryercrispy.com/images/crispy-air-fryer-chicken-wings.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer chicken wings",
+        "crispy wings",
+        "air fryer wings recipe"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-french-fries/",
+      "url": "https://airfryercrispy.com/air-fryer-french-fries/",
+      "title": "Perfect Air Fryer French Fries",
+      "content_text": "Perfect Air Fryer French Fries. Crispy on the outside, fluffy inside. Soaking the cut potatoes in water removes excess starch, which",
+      "image": "https://airfryercrispy.com/images/air-fryer-french-fries.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer fries",
+        "crispy french fries airfryer",
+        "homemade air fryer fries"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-broccoli-garlic-parmesan/",
+      "url": "https://airfryercrispy.com/air-fryer-broccoli-garlic-parmesan/",
+      "title": "Air Fryer Broccoli with Garlic and Parmesan",
+      "content_text": "Air Fryer Broccoli with Garlic and Parmesan. Broccoli with charred edges and tender stems. The air fryer produces results similar to high-heat ro",
+      "image": "https://airfryercrispy.com/images/air-fryer-broccoli-garlic-parmesan.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer broccoli",
+        "crispy broccoli airfryer",
+        "roasted broccoli air fryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-salmon-lemon-herbs/",
+      "url": "https://airfryercrispy.com/air-fryer-salmon-lemon-herbs/",
+      "title": "Air Fryer Salmon with Lemon and Herbs",
+      "content_text": "Air Fryer Salmon with Lemon and Herbs. Salmon fillets that are flaky inside with a lightly crisp exterior. The air fryer cooks salmon evenl",
+      "image": "https://airfryercrispy.com/images/air-fryer-salmon-lemon-herbs.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer salmon",
+        "easy salmon recipe airfryer",
+        "lemon herb salmon"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-mozzarella-sticks/",
+      "url": "https://airfryercrispy.com/air-fryer-mozzarella-sticks/",
+      "title": "Air Fryer Mozzarella Sticks",
+      "content_text": "Air Fryer Mozzarella Sticks. Crispy breaded mozzarella sticks without deep frying. The key is freezing them before air frying — c",
+      "image": "https://airfryercrispy.com/images/air-fryer-mozzarella-sticks.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer mozzarella sticks",
+        "crispy cheese sticks airfryer",
+        "homemade mozzarella sticks"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-brussels-sprouts-balsamic/",
+      "url": "https://airfryercrispy.com/air-fryer-brussels-sprouts-balsamic/",
+      "title": "Air Fryer Brussels Sprouts with Balsamic Glaze",
+      "content_text": "Air Fryer Brussels Sprouts with Balsamic Glaze. Halved brussels sprouts with charred edges and a sweet balsamic glaze. The cut sides caramelize agai",
+      "image": "https://airfryercrispy.com/images/air-fryer-brussels-sprouts-balsamic.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer brussels sprouts",
+        "crispy sprouts",
+        "balsamic brussels"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-honey-garlic-shrimp/",
+      "url": "https://airfryercrispy.com/air-fryer-honey-garlic-shrimp/",
+      "title": "Air Fryer Honey Garlic Shrimp",
+      "content_text": "Air Fryer Honey Garlic Shrimp. Large shrimp coated in a sticky honey garlic glaze. They cook in just 6 minutes and the glaze carame",
+      "image": "https://airfryercrispy.com/images/air-fryer-honey-garlic-shrimp.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer shrimp",
+        "honey garlic shrimp",
+        "quick shrimp recipe airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-sweet-potato-fries/",
+      "url": "https://airfryercrispy.com/air-fryer-sweet-potato-fries/",
+      "title": "Air Fryer Sweet Potato Fries",
+      "content_text": "Air Fryer Sweet Potato Fries. Sweet potato fries that are actually crispy — the trick is cutting them thin and using cornstarch to",
+      "image": "https://airfryercrispy.com/images/air-fryer-sweet-potato-fries.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer sweet potato fries",
+        "crispy sweet potato airfryer",
+        "healthy fries"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-chicken-tenders/",
+      "url": "https://airfryercrispy.com/air-fryer-chicken-tenders/",
+      "title": "Air Fryer Chicken Tenders",
+      "content_text": "Air Fryer Chicken Tenders. Juicy chicken tenders with panko crust. Double breading keeps the coating intact.",
+      "image": "https://airfryercrispy.com/images/air-fryer-chicken-tenders.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer chicken tenders",
+        "crispy tenders"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-buffalo-cauliflower/",
+      "url": "https://airfryercrispy.com/air-fryer-buffalo-cauliflower/",
+      "title": "Air Fryer Cauliflower Buffalo Wings",
+      "content_text": "Air Fryer Cauliflower Buffalo Wings. Battered cauliflower florets, air fried until crispy, tossed in buffalo sauce. The textured surface ",
+      "image": "https://airfryercrispy.com/images/air-fryer-buffalo-cauliflower.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer cauliflower wings",
+        "buffalo cauliflower",
+        "vegan airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-bacon/",
+      "url": "https://airfryercrispy.com/air-fryer-bacon/",
+      "title": "Air Fryer Bacon",
+      "content_text": "Air Fryer Bacon. Flat, evenly crispy bacon. No splatter, no flipping. The air fryer renders fat from all sides simult",
+      "image": "https://airfryercrispy.com/images/air-fryer-bacon.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer bacon",
+        "crispy bacon",
+        "how to cook bacon airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-zucchini-fries/",
+      "url": "https://airfryercrispy.com/air-fryer-zucchini-fries/",
+      "title": "Air Fryer Zucchini Fries with Parmesan",
+      "content_text": "Air Fryer Zucchini Fries with Parmesan. Breaded zucchini sticks with parmesan crust. Salt the zucchini first to draw out moisture — essentia",
+      "image": "https://airfryercrispy.com/images/air-fryer-zucchini-fries.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer zucchini fries",
+        "parmesan zucchini",
+        "crispy zucchini airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-chicken-drumsticks/",
+      "url": "https://airfryercrispy.com/air-fryer-chicken-drumsticks/",
+      "title": "Air Fryer Chicken Drumsticks",
+      "content_text": "Air Fryer Chicken Drumsticks. Seasoned drumsticks with crackling skin. The bone conducts heat to the interior while skin crisps in",
+      "image": "https://airfryercrispy.com/images/air-fryer-chicken-drumsticks.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer drumsticks",
+        "crispy chicken legs",
+        "easy drumstick recipe airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-garlic-bread/",
+      "url": "https://airfryercrispy.com/air-fryer-garlic-bread/",
+      "title": "Air Fryer Garlic Bread",
+      "content_text": "Air Fryer Garlic Bread. Crispy crust, buttery center. Ready in 5 minutes — faster than pwarm uping an oven.",
+      "image": "https://airfryercrispy.com/images/air-fryer-garlic-bread.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer garlic bread",
+        "quick garlic bread",
+        "crispy garlic bread"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-fish-tacos/",
+      "url": "https://airfryercrispy.com/air-fryer-fish-tacos/",
+      "title": "Air Fryer Fish Tacos",
+      "content_text": "Air Fryer Fish Tacos. Crispy-coated white fish in warm tortillas with slaw and lime. The air fryer gets the coating crunch",
+      "image": "https://airfryercrispy.com/images/air-fryer-fish-tacos.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer fish tacos",
+        "crispy fish tacos",
+        "easy fish taco recipe airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-tofu-nuggets/",
+      "url": "https://airfryercrispy.com/air-fryer-tofu-nuggets/",
+      "title": "Air Fryer Tofu Nuggets",
+      "content_text": "Air Fryer Tofu Nuggets. Extra-firm tofu cubes with a crispy seasoned coating. Pressing the tofu first removes excess water, ",
+      "image": "https://airfryercrispy.com/images/air-fryer-tofu-nuggets.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "air fryer tofu",
+        "crispy tofu nuggets",
+        "vegan air fryer recipe"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-pork-chops/",
+      "url": "https://airfryercrispy.com/air-fryer-pork-chops/",
+      "title": "Air Fryer Pork Chops",
+      "content_text": "Air Fryer Pork Chops. Juicy bone-in chops with a smoky paprika rub, golden and crispy in under 20 minutes.",
+      "image": "https://airfryercrispy.com/images/air-fryer-pork-chops.webp",
+      "date_published": "2026-04-07T00:00:00Z",
+      "tags": [
+        "air fryer pork chops",
+        "crispy pork chops",
+        "bone-in pork chops air fryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-coconut-shrimp/",
+      "url": "https://airfryercrispy.com/air-fryer-coconut-shrimp/",
+      "title": "Air Fryer Coconut Shrimp",
+      "content_text": "Air Fryer Coconut Shrimp. Golden crispy coconut-coated shrimp in 23 minutes with no deep frying.",
+      "image": "https://airfryercrispy.com/images/air-fryer-coconut-shrimp.webp",
+      "date_published": "2026-04-08T00:00:00Z",
+      "tags": [
+        "air fryer coconut shrimp",
+        "crispy coconut shrimp",
+        "fried shrimp air fryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/air-fryer-egg-rolls/",
+      "url": "https://airfryercrispy.com/air-fryer-egg-rolls/",
+      "title": "Air Fryer Egg Rolls",
+      "content_text": "Air Fryer Egg Rolls. Crispy homemade egg rolls with pork and cabbage filling, golden in 10 minutes.",
+      "image": "https://airfryercrispy.com/images/air-fryer-egg-rolls.webp",
+      "date_published": "2026-04-09T00:00:00Z",
+      "tags": [
+        "air fryer egg rolls",
+        "crispy egg rolls",
+        "homemade egg rolls"
+      ]
+    }
+  ]
+}

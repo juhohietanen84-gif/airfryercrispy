@@ -1,0 +1,259 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Air Fryer Crispy",
+  "home_page_url": "https://airfryercrispy.com/",
+  "feed_url": "https://airfryercrispy.com/feed.json",
+  "description": "Airfryer-reseptit jotka toimivat. Testattu usealla mallilla.",
+  "language": "fi",
+  "items": [
+    {
+      "id": "https://airfryercrispy.com/rapeat-kanansiivet-airfryer/",
+      "url": "https://airfryercrispy.com/rapeat-kanansiivet-airfryer/",
+      "title": "Rapeat kanansiivet airfryerissä 25 minuutissa",
+      "content_text": "Rapeat kanansiivet airfryerissä 25 minuutissa. Rapeat kanansiivet ilman jauhoja tai leivitystä. Leivinjauhe nostaa nahan pH:ta, m",
+      "image": "https://airfryercrispy.com/images/rapeat-kanansiivet-airfryer.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer kanansiivet",
+        "rapeat siivet",
+        "kanansiivet ilman uppopaistoa"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-ranskalaiset/",
+      "url": "https://airfryercrispy.com/airfryer-ranskalaiset/",
+      "title": "Täydelliset airfryer-ranskalaiset",
+      "content_text": "Täydelliset airfryer-ranskalaiset. Rapeat ulkoa, pehmeät sisältä. Perunoiden liotus vedessä poistaa ylimääräisen tärkkelyksen — se on a",
+      "image": "https://airfryercrispy.com/images/airfryer-ranskalaiset.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer ranskalaiset",
+        "rapeat ranskalaiset ilman uppopaistoa",
+        "perunat airfryerissä"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-lohi-sitruuna-tilli/",
+      "url": "https://airfryercrispy.com/airfryer-lohi-sitruuna-tilli/",
+      "title": "Airfryer-lohifileet sitruunalla ja tillillä",
+      "content_text": "Airfryer-lohifileet sitruunalla ja tillillä. Lohifileet jotka ovat ulkoa kevyesti rapeita ja sisältä mehukkaan lohenpunaisia. Airfryer kypsyttää ",
+      "image": "https://airfryercrispy.com/images/airfryer-lohi-sitruuna-tilli.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer lohi",
+        "helppo lohi airfryerissä",
+        "sitruunalohi"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/rapeat-kanankoivet-airfryer/",
+      "url": "https://airfryercrispy.com/rapeat-kanankoivet-airfryer/",
+      "title": "Airfryer-broilerinkoivet mausteilla",
+      "content_text": "Airfryer-broilerinkoivet mausteilla. Maustetut kanankoivet joissa on rapea nahka. Luu johtaa lämpöä sisälle samalla kun nahka rapeantuu k",
+      "image": "https://airfryercrispy.com/images/rapeat-kanankoivet-airfryer.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer kanankoivet",
+        "rapeat koivet",
+        "helppo kanaresepti airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kasvikset-yrtit/",
+      "url": "https://airfryercrispy.com/airfryer-kasvikset-yrtit/",
+      "title": "Airfryer-kasvikset yrteillä",
+      "content_text": "Airfryer-kasvikset yrteillä. Sekakasviksia paahtunein reunoin ja rapealla pinnalla. Airfryer saavuttaa puolessa ajassa saman tulo",
+      "image": "https://airfryercrispy.com/images/airfryer-kasvikset-yrtit.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer kasvikset",
+        "paahdetut kasvikset",
+        "helppo kasvisresepti airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-lihapullat/",
+      "url": "https://airfryercrispy.com/airfryer-lihapullat/",
+      "title": "Airfryer-lihapullat",
+      "content_text": "Airfryer-lihapullat. Perinteiset lihapullat airfryerissä: ulkoa rapea pinta, sisältä mehukkaita. Ilman uppopaistoa mutta ",
+      "image": "https://airfryercrispy.com/images/airfryer-lihapullat.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer lihapullat",
+        "rapeat lihapullat",
+        "lihapullat ilman paistamista"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-falafel/",
+      "url": "https://airfryercrispy.com/airfryer-falafel/",
+      "title": "Airfryer-falafel",
+      "content_text": "Airfryer-falafel. Rapea falafel ilman uppopaistoa. Airfryer antaa rapean pinnan samalla kun sisus pysyy pehmeänä ja yr",
+      "image": "https://airfryercrispy.com/images/airfryer-falafel.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer falafel",
+        "rapea falafel ilman uppopaistoa",
+        "helppo falafel"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-parsakaali-parmesaani/",
+      "url": "https://airfryercrispy.com/airfryer-parsakaali-parmesaani/",
+      "title": "Airfryer-parsakaali parmesaanilla",
+      "content_text": "Airfryer-parsakaali parmesaanilla. Parsakaali paahtunein reunoin ja rapeilla parmesaanipaloilla. Airfryer tuottaa kuuman uunin kaltaisen",
+      "image": "https://airfryercrispy.com/images/airfryer-parsakaali-parmesaani.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer parsakaali",
+        "rapea parsakaali",
+        "parsakaali parmesaanilla airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kalapuikot/",
+      "url": "https://airfryercrispy.com/airfryer-kalapuikot/",
+      "title": "Airfryer-kalapuikot rapean rapeiksi",
+      "content_text": "Airfryer-kalapuikot rapean rapeiksi. Pakastekalapuikot suoraan airfryeriin — ei sulatusta, ei öljyä. Lopputulos on rapeampi kuin uunissa ",
+      "image": "https://airfryercrispy.com/images/airfryer-kalapuikot.webp",
+      "date_published": "2026-04-06T00:00:00Z",
+      "tags": [
+        "airfryer kalapuikot",
+        "rapeat kalapuikot",
+        "pakaste airfryerissä"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-broileri-satay/",
+      "url": "https://airfryercrispy.com/airfryer-broileri-satay/",
+      "title": "Airfryer Broileri-Satay-Tikkuja",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-broileri-satay.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer satay tikut",
+        "kana satay airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-juustoinen-perunagratinki/",
+      "url": "https://airfryercrispy.com/airfryer-juustoinen-perunagratinki/",
+      "title": "Airfryer Juustoinen Perunagratinki",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-juustoinen-perunagratinki.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer perunagratinki",
+        "juustoinen peruna"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-rapea-halloumi/",
+      "url": "https://airfryercrispy.com/airfryer-rapea-halloumi/",
+      "title": "Airfryer Rapea Halloumi",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-rapea-halloumi.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer halloumi",
+        "rapea halloumi"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kotitekoiset-kananugetit/",
+      "url": "https://airfryercrispy.com/airfryer-kotitekoiset-kananugetit/",
+      "title": "Airfryer Kotitekoiset Kananugetit",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-kotitekoiset-kananugetit.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer kananugetit",
+        "kotitekoiset nakit"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-punajuurilastut/",
+      "url": "https://airfryercrispy.com/airfryer-punajuurilastut/",
+      "title": "Airfryer Punajuurilastut",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-punajuurilastut.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer punajuurilastut",
+        "terveelliset sipsit"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-rapeat-sipulirenkaat/",
+      "url": "https://airfryercrispy.com/airfryer-rapeat-sipulirenkaat/",
+      "title": "Airfryer Rapeat Sipulirenkaat",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-rapeat-sipulirenkaat.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer sipulirenkaat",
+        "rapeat sipulirenkaat"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-maustetut-bataattilohkot/",
+      "url": "https://airfryercrispy.com/airfryer-maustetut-bataattilohkot/",
+      "title": "Airfryer Maustetut Bataattilohkot",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-maustetut-bataattilohkot.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer bataatti",
+        "bataattilohkot airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kanakebab/",
+      "url": "https://airfryercrispy.com/airfryer-kanakebab/",
+      "title": "Airfryer Kanakebab",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-kanakebab.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer kebab",
+        "kana kebab airfryer"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-pekoni-herkkusienet/",
+      "url": "https://airfryercrispy.com/airfryer-pekoni-herkkusienet/",
+      "title": "Airfryer Pekonilla Kaarityt Herkkusienet",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-pekoni-herkkusienet.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer pekoni sienet",
+        "taytetyt sienet"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kookoskatkaravut/",
+      "url": "https://airfryercrispy.com/airfryer-kookoskatkaravut/",
+      "title": "Airfryer Kookoskatkaravut",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-kookoskatkaravut.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer katkaravut",
+        "kookos katkaravut"
+      ]
+    },
+    {
+      "id": "https://airfryercrispy.com/airfryer-kukkakaalisteakki/",
+      "url": "https://airfryercrispy.com/airfryer-kukkakaalisteakki/",
+      "title": "Airfryer Kukkakaalisteakki",
+      "content_text": "",
+      "image": "https://airfryercrispy.com/images/airfryer-kukkakaalisteakki.webp",
+      "date_published": "2026-04-23T00:00:00Z",
+      "tags": [
+        "airfryer kukkakaali",
+        "kukkakaalisteakki"
+      ]
+    }
+  ]
+}
