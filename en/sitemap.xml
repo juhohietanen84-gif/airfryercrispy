@@ -282,6 +282,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-marry-me-chicken/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-salmon-bites/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-korean-corn-dogs/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-hash-browns/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-pickle-chips/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-garlic-parmesan-wings/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/en/chicken/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -323,6 +359,11 @@
   </url>
   <url>
     <loc>https://airfryercrispy.com/en/ingredient/shrimp/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/ingredient/salmon/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
