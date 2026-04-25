@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Air Fryer Crispy",
-  "home_page_url": "https://airfryercrispy.com/",
-  "feed_url": "https://airfryercrispy.com/feed.json",
+  "home_page_url": "https://airfryercrispy.com/nl/",
+  "feed_url": "https://airfryercrispy.com/nl/feed.json",
   "description": "Airfryer recepten die werken. Getest met meerdere modellen.",
   "language": "nl",
   "items": [
     {
-      "id": "https://airfryercrispy.com/airfryer-krokante-kippenvleugels/",
-      "url": "https://airfryercrispy.com/airfryer-krokante-kippenvleugels/",
+      "id": "https://airfryercrispy.com/nl/airfryer-krokante-kippenvleugels/",
+      "url": "https://airfryercrispy.com/nl/airfryer-krokante-kippenvleugels/",
       "title": "Krokante Kippenvleugels uit de Airfryer",
       "content_text": "Krokante kippenvleugels uit de airfryer in 25 minuten. Zonder paneersel, extra knapperig.",
       "image": "https://airfryercrispy.com/images/airfryer-krokante-kippenvleugels.webp",
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-friet/",
-      "url": "https://airfryercrispy.com/airfryer-friet/",
+      "id": "https://airfryercrispy.com/nl/airfryer-friet/",
+      "url": "https://airfryercrispy.com/nl/airfryer-friet/",
       "title": "Perfecte Airfryer Friet",
       "content_text": "Perfecte Airfryer Friet. Krokante friet zonder frituren. Door de gesneden aardappelen in water te weken wordt het oppervlakte",
       "image": "https://airfryercrispy.com/images/airfryer-friet.webp",
@@ -33,8 +33,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-falafel/",
-      "url": "https://airfryercrispy.com/airfryer-falafel/",
+      "id": "https://airfryercrispy.com/nl/airfryer-falafel/",
+      "url": "https://airfryercrispy.com/nl/airfryer-falafel/",
       "title": "Airfryer Falafel",
       "content_text": "Airfryer Falafel. Krokante falafel zonder frituren. De airfryer geeft een knapperige buitenkant terwijl de binnenkant ",
       "image": "https://airfryercrispy.com/images/airfryer-falafel.webp",
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-gehaktballen/",
-      "url": "https://airfryercrispy.com/airfryer-gehaktballen/",
+      "id": "https://airfryercrispy.com/nl/airfryer-gehaktballen/",
+      "url": "https://airfryercrispy.com/nl/airfryer-gehaktballen/",
       "title": "Airfryer Gehaktballen",
       "content_text": "Airfryer Gehaktballen. Klassieke gehaktballen uit de airfryer: van buiten krokant, van binnen sappig. Zonder frituurvet maa",
       "image": "https://airfryercrispy.com/images/airfryer-gehaktballen.webp",
@@ -59,8 +59,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-groenten-balsamico/",
-      "url": "https://airfryercrispy.com/airfryer-groenten-balsamico/",
+      "id": "https://airfryercrispy.com/nl/airfryer-groenten-balsamico/",
+      "url": "https://airfryercrispy.com/nl/airfryer-groenten-balsamico/",
       "title": "Airfryer Groenten met Balsamico",
       "content_text": "Airfryer Groenten met Balsamico. Gemengde groenten met geroosterde randen en een zoete balsamicoglazuur. De airfryer geeft in de helf",
       "image": "https://airfryercrispy.com/images/airfryer-groenten-balsamico.webp",
@@ -72,8 +72,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-kaassouffles/",
-      "url": "https://airfryercrispy.com/airfryer-kaassouffles/",
+      "id": "https://airfryercrispy.com/nl/airfryer-kaassouffles/",
+      "url": "https://airfryercrispy.com/nl/airfryer-kaassouffles/",
       "title": "Airfryer Kaassoufflés",
       "content_text": "Airfryer Kaassoufflés. Kaassoufflés uit de airfryer: krokant laagje, smeuïg kaas van binnen. Rechtstreeks uit de vriezer in",
       "image": "https://airfryercrispy.com/images/airfryer-kaassouffles.webp",
@@ -85,8 +85,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-kipfilet-kruiden/",
-      "url": "https://airfryercrispy.com/airfryer-kipfilet-kruiden/",
+      "id": "https://airfryercrispy.com/nl/airfryer-kipfilet-kruiden/",
+      "url": "https://airfryercrispy.com/nl/airfryer-kipfilet-kruiden/",
       "title": "Airfryer Kipfilet met Kruiden",
       "content_text": "Airfryer Kipfilet met Kruiden. Sappige kipfilet met een kruidenkorst uit de airfryer. Het geheim is de filet niet te lang te bakken",
       "image": "https://airfryercrispy.com/images/airfryer-kipfilet-kruiden.webp",
@@ -98,8 +98,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-appelbeignets/",
-      "url": "https://airfryercrispy.com/airfryer-appelbeignets/",
+      "id": "https://airfryercrispy.com/nl/airfryer-appelbeignets/",
+      "url": "https://airfryercrispy.com/nl/airfryer-appelbeignets/",
       "title": "Airfryer Appelbeignets",
       "content_text": "Airfryer Appelbeignets. Appelbeignets: plakken appel in beslag, gebakken tot ze goudbruin en krokant zijn. Een Nederlandse k",
       "image": "https://airfryercrispy.com/images/airfryer-appelbeignets.webp",
@@ -111,8 +111,8 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-shoarma-kip/",
-      "url": "https://airfryercrispy.com/airfryer-shoarma-kip/",
+      "id": "https://airfryercrispy.com/nl/airfryer-shoarma-kip/",
+      "url": "https://airfryercrispy.com/nl/airfryer-shoarma-kip/",
       "title": "Airfryer Shoarma Kip",
       "content_text": "Airfryer Shoarma Kip. Gekruide kip in shoarma-stijl uit de airfryer. De combinatie van komijn, paprika en kurkuma geeft he",
       "image": "https://airfryercrispy.com/images/airfryer-shoarma-kip.webp",
@@ -124,132 +124,132 @@
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-bitterballen/",
-      "url": "https://airfryercrispy.com/airfryer-bitterballen/",
+      "id": "https://airfryercrispy.com/nl/airfryer-bitterballen/",
+      "url": "https://airfryercrispy.com/nl/airfryer-bitterballen/",
       "title": "Airfryer Bitterballen",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-bitterballen.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer bitterballen",
         "krokante bitterballen"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-kipsate-spiesjes/",
-      "url": "https://airfryercrispy.com/airfryer-kipsate-spiesjes/",
+      "id": "https://airfryercrispy.com/nl/airfryer-kipsate-spiesjes/",
+      "url": "https://airfryercrispy.com/nl/airfryer-kipsate-spiesjes/",
       "title": "Airfryer Kipsate Spiesjes",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-kipsate-spiesjes.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer kipsate",
         "satay spiesjes airfryer"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-gehaktballetjes-tomatensaus/",
-      "url": "https://airfryercrispy.com/airfryer-gehaktballetjes-tomatensaus/",
+      "id": "https://airfryercrispy.com/nl/airfryer-gehaktballetjes-tomatensaus/",
+      "url": "https://airfryercrispy.com/nl/airfryer-gehaktballetjes-tomatensaus/",
       "title": "Airfryer Gehaktballetjes in Tomatensaus",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-gehaktballetjes-tomatensaus.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer gehaktballen",
         "Italiaanse gehaktballetjes"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-kibbeling/",
-      "url": "https://airfryercrispy.com/airfryer-kibbeling/",
+      "id": "https://airfryercrispy.com/nl/airfryer-kibbeling/",
+      "url": "https://airfryercrispy.com/nl/airfryer-kibbeling/",
       "title": "Airfryer Kibbeling",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-kibbeling.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer kibbeling",
         "knapperige kibbeling"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-banaan-chocolade/",
-      "url": "https://airfryercrispy.com/airfryer-banaan-chocolade/",
+      "id": "https://airfryercrispy.com/nl/airfryer-banaan-chocolade/",
+      "url": "https://airfryercrispy.com/nl/airfryer-banaan-chocolade/",
       "title": "Airfryer Banaan met Chocolade",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-banaan-chocolade.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer banaan",
         "banaan chocolade dessert"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-kroketten/",
-      "url": "https://airfryercrispy.com/airfryer-kroketten/",
+      "id": "https://airfryercrispy.com/nl/airfryer-kroketten/",
+      "url": "https://airfryercrispy.com/nl/airfryer-kroketten/",
       "title": "Airfryer Kroketten",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-kroketten.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer kroketten",
         "knapperige kroketten"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-rookworst/",
-      "url": "https://airfryercrispy.com/airfryer-rookworst/",
+      "id": "https://airfryercrispy.com/nl/airfryer-rookworst/",
+      "url": "https://airfryercrispy.com/nl/airfryer-rookworst/",
       "title": "Airfryer Rookworst",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-rookworst.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer rookworst",
         "knapperige rookworst"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-knoflookgarnalen/",
-      "url": "https://airfryercrispy.com/airfryer-knoflookgarnalen/",
+      "id": "https://airfryercrispy.com/nl/airfryer-knoflookgarnalen/",
+      "url": "https://airfryercrispy.com/nl/airfryer-knoflookgarnalen/",
       "title": "Airfryer Knoflookgarnalen",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-knoflookgarnalen.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer garnalen",
         "knoflook garnalen"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-satay-kip/",
-      "url": "https://airfryercrispy.com/airfryer-satay-kip/",
+      "id": "https://airfryercrispy.com/nl/airfryer-satay-kip/",
+      "url": "https://airfryercrispy.com/nl/airfryer-satay-kip/",
       "title": "Airfryer Satay Kip",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-satay-kip.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer satay",
         "kipspiesjes satay"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-bloemkool-kaas/",
-      "url": "https://airfryercrispy.com/airfryer-bloemkool-kaas/",
+      "id": "https://airfryercrispy.com/nl/airfryer-bloemkool-kaas/",
+      "url": "https://airfryercrispy.com/nl/airfryer-bloemkool-kaas/",
       "title": "Airfryer Bloemkool met Kaas",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-bloemkool-kaas.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer bloemkool",
         "bloemkool kaas airfryer"
       ]
     },
     {
-      "id": "https://airfryercrispy.com/airfryer-loempias/",
-      "url": "https://airfryercrispy.com/airfryer-loempias/",
+      "id": "https://airfryercrispy.com/nl/airfryer-loempias/",
+      "url": "https://airfryercrispy.com/nl/airfryer-loempias/",
       "title": "Airfryer Loempia's",
       "content_text": "",
       "image": "https://airfryercrispy.com/images/airfryer-loempias.webp",
-      "date_published": "2026-04-24T00:00:00Z",
+      "date_published": "2026-04-25T00:00:00Z",
       "tags": [
         "airfryer loempia",
         "knapperige loempia"
