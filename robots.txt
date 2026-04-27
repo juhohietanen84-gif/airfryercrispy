@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://airfryercrispy.com/sitemap.xml
+Sitemap: https://airfryercrispy.com/sitemap-images.xml
