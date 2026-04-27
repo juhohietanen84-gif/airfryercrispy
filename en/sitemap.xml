@@ -393,6 +393,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/en/guides/best-air-fryers-2026/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/en/guides/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
