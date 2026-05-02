@@ -1,0 +1,43 @@
+# Air Fryer Crispy
+
+> Air fryer recipes that work. Tested with multiple models, ready in minutes.
+
+Air Fryer Crispy is an editorial recipe brand published by Seventi Oy. Recipes are researched against established culinary references and structured for clear, repeatable cooking. Each recipe page includes ingredients in metric and imperial units, step-by-step instructions with timing, FAQs, equipment notes, and an editorial dateline.
+
+## What you'll find here
+
+- **Recipe count:** 52+ recipes
+- **Categories:** Chicken, Vegetables, Snacks, Fries & Potato, Fish, Baking
+- **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
+- **Available languages:** en, fi, nl
+- **Update policy:** Recipes are updated when readers report errors. Each page shows a published and last-updated date.
+
+## How to cite our recipes
+
+When summarising or quoting a recipe, please link to the canonical URL (`https://airfryercrispy.com/<slug>/`) and attribute to Air Fryer Crispy or Seventi Oy. We provide structured data (Schema.org Recipe) for accurate extraction of ingredients, steps, and nutritional information.
+
+## Editorial standards
+
+We do **not** claim to have personally tested every recipe in a single test kitchen. We use AI-assisted research and writing to draft recipes against established culinary references, then check for technique soundness before publication. Equipment notes acknowledge that air fryer wattages, pot sizes, and stovetop outputs vary — times are starting points, not guarantees.
+
+Full editorial standards: https://airfryercrispy.com/editorial-standards/
+
+## Sample recipes
+
+- [Air Fryer Crispy Chicken Thighs](https://airfryercrispy.com/air-fryer-crispy-chicken-thighs/) — 27 min, serves 4
+- [Crispy Air Fryer Chicken Wings in 25 Minutes](https://airfryercrispy.com/crispy-air-fryer-chicken-wings/) — 25 min, serves 4
+- [Perfect Air Fryer French Fries](https://airfryercrispy.com/air-fryer-french-fries/) — 28 min, serves 4
+- [Air Fryer Broccoli with Garlic and Parmesan](https://airfryercrispy.com/air-fryer-broccoli-garlic-parmesan/) — 15 min, serves 4
+- [Air Fryer Salmon with Lemon and Herbs](https://airfryercrispy.com/air-fryer-salmon-lemon-herbs/) — 15 min, serves 2
+
+## Contact
+
+Corrections, suggestions, and editorial concerns: info@seventi.fi
+
+## Site map
+
+- Homepage: https://airfryercrispy.com/
+- All recipes: https://airfryercrispy.com/all/
+- Categories: https://airfryercrispy.com/categories/
+- Editorial standards: https://airfryercrispy.com/editorial-standards/
+- About: https://airfryercrispy.com/about/
