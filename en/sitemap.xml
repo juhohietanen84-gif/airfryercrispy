@@ -354,6 +354,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-keto-chicken-tenders/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-stuffed-mushrooms/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-zucchini-chips/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-keto-meatballs/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-keto-pork-chops/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/air-fryer-keto-cauliflower-bites/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/en/chicken/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -380,6 +416,11 @@
   </url>
   <url>
     <loc>https://airfryercrispy.com/en/baking/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/en/keto/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
