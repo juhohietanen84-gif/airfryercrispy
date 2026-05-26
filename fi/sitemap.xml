@@ -239,6 +239,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/fi/under-30-min/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/5-ingredients-or-less/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/under-400-calories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/fi/quiz/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
