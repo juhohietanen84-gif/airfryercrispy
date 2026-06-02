@@ -6,7 +6,7 @@ Air Fryer Crispy is an editorial recipe brand published by Seventi Oy. Recipes a
 
 ## What you'll find here
 
-- **Recipe count:** 64+ recipes
+- **Recipe count:** 68+ recipes
 - **Categories:** Chicken, Vegetables, Snacks, Fries & Potato, Fish, Baking
 - **Format:** Each recipe has Schema.org Recipe markup, FAQ schema, breadcrumb schema, and Organization publisher info
 - **Available languages:** en, fi, nl
