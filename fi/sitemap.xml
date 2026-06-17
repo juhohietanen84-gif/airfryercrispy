@@ -144,6 +144,114 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-cajun-lohi/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-hunaja-soija-lohi/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-everything-bagel-lohi/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-cajun-katkaravut/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-chili-lime-katkaravut/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-korealainen-gochujang-kana/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-peri-peri-kana/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-sitruunapippuri-kanansiivet/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-jamaikalainen-jerk-koipireidet/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-buffalo-kanafileesuikaleet/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-italialaiset-yrtit-kanan-rintafilee/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-valkosipuli-parmesan-ruusukaalit/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-valkosipuli-parmesan-parsa/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-kultainen-curry-kukkakaali/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-makea-chili-kukkakaali/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-vaahtera-sinappi-porkkanat/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-savupaprika-kikherneet/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/airfryer-seesami-inkivaari-tofu/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/fi/chicken/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -185,6 +293,11 @@
   </url>
   <url>
     <loc>https://airfryercrispy.com/fi/ingredient/potato/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/ingredient/salmon/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -244,7 +357,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://airfryercrispy.com/fi/under-15-min/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://airfryercrispy.com/fi/5-ingredients-or-less/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://airfryercrispy.com/fi/high-protein-meals/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
